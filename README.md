@@ -1,8 +1,8 @@
-# Uber Rides Analysis Dashboard
+# Uber Rides' Analysis Dashboard
 
 An interactive data visualization dashboard built with Streamlit to analyze Uber ride patterns.
 
-## Features
+## Major Features
 
 - 📊 **Basic Analysis**
   - Total rides overview
